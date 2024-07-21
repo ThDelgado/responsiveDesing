@@ -9,6 +9,8 @@ p {
 .b {
     
     display: inline-block;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -77,12 +79,12 @@ Pantalla LSmall (>=576px) */
     }
 
     .col-sm-2 {
-        width: 32.666666666666%;
+        width: 32.777777777%;
         height: 40px;
     }
 
     .col-sm-3 {
-        width: 69.333333333333%;
+        width: 69.666666666666%;
         height: 150px;
     }
 
